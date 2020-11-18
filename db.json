@@ -1,11 +1,48 @@
 {
-  "posts": [
+  "graduados": [
     {
-      "id": 1,
-      "title": "hello"
+      "matricula": 20201010001,
+      "nombre": "Jorge Luis Borjes"
+    },
+    {
+      "matricula": 20201010002,
+      "nombre": "Federico Robles"
+    },
+    {
+      "matricula": 20201010003,
+      "nombre": "Luis Daniel Mercado"
+    },
+    {
+      "matricula": 20201010004,
+      "nombre": "Lucas Hernández"
+    },
+    {
+      "matricula": 20201010005,
+      "nombre": "Samuel García"
+    },
+    {
+      "matricula": 20201010006,
+      "nombre": "Roberto Castillo"
+    },
+    {
+      "matricula": 20201010007,
+      "nombre": "Cleotilde Miramón"
+    },
+    {
+      "matricula": 20201010008,
+      "nombre": "Rigo Tovar"
+    },
+    {
+      "matricula": 20201010009,
+      "nombre": "Marcial Suárez"
+    },
+    {
+      "matricula": 20201010010,
+      "nombre": "Heriberto Reyes"
+    },
+    {
+      "matricula": 20201010011,
+      "nombre": "Romualdo Campos"
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
